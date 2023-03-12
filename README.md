@@ -32,5 +32,5 @@ Similarity Model is one of the projects developed during the RedTron Internship.
 9. output.json file is the Output File, containing all the Results as Key-Value Pairs in this File.
 
 <br/> <br/>
-Video of Running the Code, after uploading sample.csv is available in this <a href='' target='_blank'>link</a> <br/>
+<b>Note:</b> Video of Running the Code, after uploading sample.csv is available in this <a href='Samarth_Data-Science_Week-2.ipynb-Video.mp4' target='_blank'>link</a> <br/>
 As GitHub does not support playing videos of such length, you can download that video.

@@ -30,3 +30,7 @@ Similarity Model is one of the projects developed during the RedTron Internship.
 8. After all blocks of code are executed , wait for around 1-2 mins until the file output.json appears as shown below: <br/> <br/>
 <img alt='output' src='https://user-images.githubusercontent.com/104615876/224545842-1c04fc07-1800-4e50-8229-d96a7f323b69.jpg' /> <br/>
 9. output.json file is the Output File, containing all the Results as Key-Value Pairs in this File.
+
+<br/> <br/>
+Video of Running the Code, after uploading sample.csv is available in this <a href='' target='_blank'>link</a> <br/>
+As GitHub does not support playing videos of such length, you can download that video.

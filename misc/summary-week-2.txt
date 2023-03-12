@@ -1,0 +1,10 @@
+Word2Vec is worst model and ineffiecient.
+SOTA is best.
+eg: BERT based models  and its efficient.
+BERT based similarity model.
+
+Always use tranfer learning model.
+
+Always use latest technology.
+
+Creativity should be used.

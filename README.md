@@ -1,5 +1,7 @@
 # Similarity Model
-Similarity Model is one of the projects developed during the RedTron Internship.
+Similarity Model is one of the projects developed during the RedTron Internship. <br/>
+
+This repository contains a Python implementation of a similarity model that accepts user input at runtime for any random search keyword and displays the top 100 results from a sample CSV file in descending order based on their similarity.
 
 ## Opening the Code:
 <hr/>
